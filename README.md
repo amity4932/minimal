@@ -1,0 +1,2 @@
+# minimal
+predicting natural disasters
